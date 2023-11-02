@@ -37,7 +37,7 @@ const Navbar = () => {
           </Button>
         </Link>
       </div>
-      <Link href="https://github.com/JaspalSingh1998" target="_blank">
+      <Link href="https://github.com/JaspalSingh1998/file-converter" target="_blank">
         <Button
           variant="default"
           className="rounded-full w-fit bg-orange-600 gap-2 items-center hidden md:flex"
