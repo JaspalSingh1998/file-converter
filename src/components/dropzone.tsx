@@ -212,6 +212,7 @@ const Dropzone = () => {
       setIsReady(false);
       setIsConverting(false);
     } else checkIsReady();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [actions]);
   useEffect(() => {
     load();
